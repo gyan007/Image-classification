@@ -18,6 +18,11 @@ The **Image Classifier** is a web-based application that uses a deep learning mo
 * **Deep Learning Framework**: TensorFlow
 * **Other Libraries**: Keras, werkzeug
 
+## Dataset
+* Download it from the following link :-
+  ```bash
+    https://www.kaggle.com/datasets/gopalkatariya/emotions?utm_medium=social&utm_campaign=kaggle-dataset-share
+  ```
 ## Screenshot
 
 ![Image Classifier Screenshot](images/Screenshot.png)
